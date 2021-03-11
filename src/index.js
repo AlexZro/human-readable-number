@@ -33,9 +33,6 @@ module.exports = function toReadable (number) {
     80: 'eighty',
     90: 'ninety'
   }
-//   const hundred = {
-
-//   }
   
   let arrTens = number.toString().split('');
     
